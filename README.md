@@ -1,2 +1,2 @@
 # BasketApp
- 
+  A web application with a basic HTML frontend where from the user can add/remove items into their basket from a pool of priced items (dummy, hard-coded within the application).  Basket  displays total price and allow for quantity changes. When total exceeds €100 then is applied 10% discount and notifies user. On top of the total end price, the shipping costs are calculated via a fixed €5 per item multiplied by the item weight factor (ranging from 0 to 1).
